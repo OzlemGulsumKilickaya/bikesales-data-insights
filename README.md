@@ -30,13 +30,21 @@ This project is designed to answer key business questions such as:
 ## 📁 Project Structure
 
 bike-sales-analysis/
+
 ├── data/ # Place dataset here (e.g., bike_sales.csv)
+
 ├── notebooks/
+
 │ └── Bike_Sales_Analysis.ipynb # Main Jupyter notebook
+
 ├── tests/
+
 │ └── test_script.py # Functional tests using pytest
+
 ├── README.md
+
 ├── .gitignore
+
 └── LICENSE
 
 
